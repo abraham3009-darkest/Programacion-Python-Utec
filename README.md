@@ -1,7 +1,7 @@
 
+![Descripción](https://posgrado.utec.edu.pe/sites/default/files/2023-08/Testimonial-home-2.jpg)
 
-[![image](https://github.com/user-attachments/assets/7a2d90d2-4bfe-4c3b-8f35-69ca5e9e1816)
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fposgrado.utec.edu.pe%2F&psig=AOvVaw3eUzEbpu7q3e-rPjv9xpCg&ust=1744642730158000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiSk_Ki1YwDFQAAAAAdAAAAABAR)
+---
 
 # 📘 Programa en Python – Introducción a la Programación (UTEC)
 
