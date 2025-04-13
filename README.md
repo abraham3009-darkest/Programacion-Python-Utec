@@ -75,7 +75,7 @@ programa-python-utec/
 🧑‍🏫 Equipo Docente
 Este programa es dictado por profesionales destacados en analítica y ciencia de datos:
 
-Jesús Bellido – Decano de Computación, UTEC
+Jesús Bellido – Director de Ciencia de la Computación, UTEC
 
 John Caballero – Data Science Leader, BCP
 
