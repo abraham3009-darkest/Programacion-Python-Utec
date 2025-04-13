@@ -1,1 +1,1 @@
-# Programa en Python - UTEC
+# Programación en Python - UTEC
