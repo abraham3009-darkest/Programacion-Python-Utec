@@ -1,5 +1,7 @@
 
 
+![image](https://github.com/user-attachments/assets/7a2d90d2-4bfe-4c3b-8f35-69ca5e9e1816)
+
 # 📘 Programa en Python – Introducción a la Programación (UTEC)
 
 Bienvenido al repositorio oficial del curso **"Programa en Python – Introducción a la Programación"** dictado por la Universidad de Ingeniería y Tecnología (UTEC).
