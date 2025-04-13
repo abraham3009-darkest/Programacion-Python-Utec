@@ -1,1 +1,0 @@
-# Programación en Python - UTEC
