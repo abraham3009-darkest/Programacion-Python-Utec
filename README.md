@@ -69,7 +69,7 @@ programa-python-utec/
 ├── soluciones/                  # Soluciones (acceso opcional)
 ├── templates/                   # Plantillas de ejercicios/proyectos
 └── utils/                       # Scripts o funciones auxiliares
-
+```
 
 
 🧑‍🏫 Equipo Docente
